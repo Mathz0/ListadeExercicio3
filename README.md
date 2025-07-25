@@ -6,7 +6,7 @@ Parceria: +praTi & Codifica
 
 ## 📝 Descrição
 
-Esta lista contém exercícios práticos com foco nos fundamentos de HTML5, CSS3 e princípios básicos de responsividade. Os exercícios integram o conteúdo do módulo de **Desenvolvimento Web Básico** do curso **Dev. Full Stack Jr.**.
+Esta lista contém exercícios práticos com foco nos fundamentos de HTML5, CSS3 e princípios básicos de responsividade.
 
 ---
 
@@ -15,6 +15,12 @@ Esta lista contém exercícios práticos com foco nos fundamentos de HTML5, CSS3
 ```
 lista3/
 │
+├── 1-5/
+│   ├── feedback.html       # Formulário de feedback com campos essenciais
+│   ├── index.html          # Página com estrutura semântica (header, main, footer)
+│   ├── listas.html         # Listas ordenadas e não ordenadas com links externos
+│   └── styles.css          # Estilo geral para index, listas e formulário
+│   
 ├── Grid-Flexbox/
 │   ├── galeria.html        # Galeria com Grid Layout e Flexbox
 │   └── styles.css          # Estilo específico da galeria
@@ -24,10 +30,6 @@ lista3/
 │   ├── menu.js             # Lógica para abrir/fechar menu
 │   └── styles.css          # Estilo exclusivo do menu
 │
-├── feedback.html           # Formulário de feedback com campos essenciais
-├── index.html              # Página com estrutura semântica (header, main, footer)
-├── listas.html             # Listas ordenadas e não ordenadas com links externos
-├── styles.css              # Estilo geral para index, listas e formulário
 ```
 
 ---

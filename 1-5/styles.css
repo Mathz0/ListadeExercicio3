@@ -1,0 +1,56 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Header */
+header {
+  background-color: #4a90e2;
+  color: #ffffff;
+  padding: 20px;
+  margin: 10px;
+  border: 2px solid #2c5aa0;
+}
+
+/* Main */
+main {
+  background-color: #f5f5f5;
+  color: #333333;
+  padding: 20px;
+  margin: 10px;
+  border: 2px solid #cccccc;
+}
+
+/* Footer */
+footer {
+  background-color: #2c3e50;
+  color: #ffffff;
+  padding: 15px;
+  margin: 10px;
+  border: 2px solid #1a252f;
+  text-align: center;
+}
+
+/* Estilo para todos os <h2> */
+h2 {
+  font-size: 1.8em;
+  text-decoration: underline;
+  color: #2c5aa0; 
+}
+
+/* Classe .destaque */
+.destaque {
+  font-style: italic;
+  background-color: #e6f0ff; 
+  padding: 5px;
+  border-radius: 4px;
+}
+
+/* ID #importante */
+#importante {
+  border-top: 4px solid #0055cc; 
+  padding-top: 10px;
+  margin-top: 10px;
+  color: #003366; 
+}
